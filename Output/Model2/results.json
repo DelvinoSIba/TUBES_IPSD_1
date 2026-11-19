@@ -1,0 +1,16 @@
+{
+  "model": "Model2",
+  "params": 1252370,
+  "n_folds": 5,
+  "accuracy_mean": 0.8263999999999999,
+  "precision_mean": 0.8584935064935065,
+  "recall_mean": 0.8263999999999999,
+  "f1_score_mean": 0.8114949494949494,
+  "roc_auc_mean": 0.9963657142857143,
+  "accuracy_std": 0.00876356092008262,
+  "precision_std": 0.007803203421255332,
+  "recall_std": 0.008763560920082637,
+  "f1_score_std": 0.010562612566721393,
+  "roc_auc_std": 0.00036298544596977594,
+  "train_time_sec_mean": 249.00885891914368
+}

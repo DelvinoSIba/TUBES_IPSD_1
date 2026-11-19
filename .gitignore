@@ -1,4 +1,7 @@
 .venv/
 __pycache__/
 .ipynb_checkpoints/
-dataset/
+*.pt
+*.pth
+*.h5
+Dataset/
