@@ -11,8 +11,8 @@ import seaborn as sn
 
 from torch.utils.data import DataLoader
 from Utils.getData import getImageLabel
-from Models.CNN import SimpleCNN
-from Models.model2_modified_cnn import ModifiedCNN
+from Models.simpleCNN import SimpleCNN
+from Models.model_2_modified_cnn import ModifiedCNN
 from sklearn.preprocessing import label_binarize
 from sklearn.metrics import (confusion_matrix, accuracy_score, precision_score, recall_score,
                              f1_score, roc_auc_score, roc_curve, auc)

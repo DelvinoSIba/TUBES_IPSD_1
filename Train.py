@@ -13,8 +13,8 @@ from torch.optim import AdamW
 from tqdm import tqdm
 from sklearn.model_selection import StratifiedKFold
 from Utils.getData import getImageLabel
-from Models.CNN import SimpleCNN
-from Models.model2_modified_cnn import ModifiedCNN
+from Models.simpleCNN import SimpleCNN
+from Models.model_2_modified_cnn import ModifiedCNN
 
 
 def get_model(name, img_size, num_classes):
