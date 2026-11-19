@@ -1,0 +1,4 @@
+Model,Accuracy (Mean ± Std),Macro F1 (Mean ± Std),ROC-AUC (Mean ± Std),Total Waktu Latih (menit),Pasangan Kelas Paling Sering Tertukar
+Model 1: Simple CNN (Baseline),Isi dari hasil Selfi,Isi dari hasil Selfi,Isi dari hasil Selfi,0.0,Isi dari hasil Selfi
+Model 2: Modified CNN,0.8264 ± 0.0088,0.8115 ± 0.0106,0.9964 ± 0.0004,101.0,Blotched Emerald -> Sussex Emerald (19x)
+Model 3: ViTSmall (Non-CNN),0.7015 ± 0.0155,0.7006 ± 0.0140,0.9828 ± 0.0017,22.48,BLOTCHED EMERALD MOTH -> SUSSEX EMERALD MOTH (39x)

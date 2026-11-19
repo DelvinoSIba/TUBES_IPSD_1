@@ -1,0 +1,12 @@
+{
+  "model": "ViTSmall",
+  "params": 2864882,
+  "n_folds": 5,
+  "accuracy_mean": 0.7015,
+  "accuracy_std": 0.0155,
+  "f1_score_mean": 0.7006,
+  "f1_score_std": 0.014,
+  "roc_auc_mean": 0.9828,
+  "roc_auc_std": 0.0017,
+  "train_time_sec_mean": 269.76
+}

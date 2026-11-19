@@ -1,0 +1,4 @@
+model,test accuracy,macro f1-score,waktu latih (menit),kelas paling sering salah
+Model 1: Simple CNN (Baseline),0.0,0.0,0.0,-
+Model 2: Modified CNN,0.0,0.0,0.0,-
+Model 3: ViT Small (Non-CNN),0.796,0.7812,4.2,"Bird Cherry Ermine, Clearwing, Muslin Moth"
